@@ -47,7 +47,7 @@ Created MySQL databases for applications including custom queries, relationships
 ## 📫 Let's Connect!
 
 I’m always open to collaboration, learning, and contributing to meaningful tech projects.  
-👉 **[Email me](mailto:yashin.tanvir@gmail.com)**  
+👉 **[My Portfolio](https://yashintanvir.com/)**  
 👉 **[LinkedIn](https://www.linkedin.com/in/yashinrahmantanvir/)**  
 👉 **[GitHub](https://github.com/YashinTanvir)**  
 
